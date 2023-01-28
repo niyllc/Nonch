@@ -1,0 +1,29 @@
+$gray-100: #f5f5f5;
+$gray-200: #eaeaea;
+$gray-300: #dddddd;
+$gray-400: #d5d5d5;
+$gray-500: #c7c7c7;
+$gray-600: #b9b9b9;
+$gray-700: #a1a1a1;
+$gray-800: #8d8d8d;
+$gray-900: #626262;
+
+$blue:   #77acf1;
+$indigo: #505fb1;
+$purple: #9169ff;
+$pink:   #f5abc9;
+$red:    #ff6961;
+$orange: #F05945;
+$yellow: #fff5ab;
+$green:  #caf7e3;
+$teal:   #94d0cc;
+$cyan:   #4de8e8;
+
+$primary :  darken($blue, 20);
+$secondary: $gray-500;
+$success:   darken($green, 15);
+$info:      $yellow;
+$warning:   darken($yellow, 20);
+$danger:    darken($red, 20);
+$light:     $gray-300;
+$dark:      darken($gray-900, 10)
